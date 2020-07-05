@@ -1,4 +1,4 @@
-URL : http://piaiccovid19track.surge.sh/
+URL : PiAICCOVID19Track.surge.sh
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
