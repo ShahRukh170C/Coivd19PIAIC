@@ -1,0 +1,24 @@
+.containor{
+    display: flex!important;
+    justify-content: center!important;
+    align-items: center!important;
+    flex-direction: column;
+    background-color: rgba(44, 43, 43, 0.63)!important;
+}
+.red{
+    color:red;
+    /* font-weight: bold; */
+    font-size: 1.3rem;
+}
+.green{
+    color:rgb(8, 221, 8);
+    /* font-weight: bold; */
+    font-size: 1.3rem;
+}
+.figur{
+    font-weight: 500 !important;  
+    color: rgba(255, 255, 255, 0.767);
+}
+.text{
+    color: rgb(150, 144, 144);
+}

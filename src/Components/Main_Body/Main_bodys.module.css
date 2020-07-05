@@ -1,0 +1,12 @@
+.root{
+    border: 1px solid white;
+    height: 89vh!important;
+    padding: 10px;
+    
+}
+.center{
+    display: flex!important;
+    flex-direction: column!important;
+    justify-content: center!important;
+    align-items: center!important;
+}
